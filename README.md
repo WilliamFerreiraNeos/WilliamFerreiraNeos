@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">👩‍💻 Trabalho na Néos Previdência fundada pelo grupo NEOENERGIA<br>🧠 Estou aprendendo desenvolvimento full-stack<br>👯‍♀️ Procuro colaborar em ambientes dinâmicos<br>🤔 Busco conhecimento extra sob a utilização da IA em ambiente corporativo<br>💬 Aspirante em automação residencial<br>📫 Entre em contato via Email<br>😄 Meus pronomes: Lá ele!<br>⚡️ Até logo!</p>
+<p align="left">👩‍💻 Trabalho na Néos Previdência fundada pelo grupo NEOENERGIA<br>🧠 Estou me aprimorando em desenvolvimento full-stack<br>👯‍♀️ Gosto de colaborar em ambientes dinâmicos<br>🤔 Busco conhecimento adicional sob a utilização da IA em ambiente corporativo<br>💬 Aspirante em automação residencial e gadgets inteligentes<br>😄 Meus pronomes: Lá ele!<br>📫 Entre em contato via Email<br>⚡️ Até logo!</p>
 
 ###
 
-<h2 align="left">Eu utilizo estas tecnologias ↓</h2>
+<h2 align="left">Utilizo estas tecnologias ↓</h2>
 
 ###
 
