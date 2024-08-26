@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Deixa eu me apresentar.. Me chamo William Ferreira, sou Brasileiro ou do país do carnaval se preferir e trabalho como desenvolvedor de software em uma incrível empresa da minha cidade.</p>
+<p align="left">Serei breve.. Me chamo William Ferreira, sou Brasileiro e baiano, obcecado por tecnologia e trabalho como desenvolvedor de software em uma incrível empresa da minha cidade.</p>
 
 ###
 
