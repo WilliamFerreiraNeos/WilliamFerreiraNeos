@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Serei breve.. Me chamo William Ferreira, sou Brasileiro e baiano, obcecado por tecnologia e trabalho como desenvolvedor de software em uma incrível empresa da minha cidade.</p>
+<p align="left">Serei breve.. Me chamo William Rigne, sou Brasileiro e baiano, obcecado por tecnologia e trabalho como desenvolvedor de software em uma incrível empresa da minha cidade.</p>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">👩‍💻 Trabalho na Néos Previdência fundada pelo grupo NEOENERGIA<br>🧠 Estou me aprimorando em desenvolvimento full-stack<br>👯‍♀️ Gosto de colaborar em ambientes dinâmicos<br>🤔 Busco conhecimento adicional sob a utilização da IA em ambiente corporativo<br>💬 Aspirante em automação residencial e gadgets inteligentes<br>😄 Meus pronomes: Lá ele!<br>📫 Entre em contato via Email<br>⚡️ Até logo!</p>
+<p align="left">👩‍💻 Trabalho na Néos Previdência fundada pelo grupo NEOENERGIA<br>🧠 Estou me aprimorando em desenvolvimento full-stack<br>👯‍♀️ Gosto de colaborar em ambientes dinâmicos<br>🤔 Busco conhecimento adicional sob a utilização da IA em ambiente corporativo<br>💬 Aspirante em automação residencial e gadgets inteligentes<br>😄 Meus pronomes: Lá ele!<br>📫 Entre em contato via Email<br>⚡️ Até breve!</p>
 
 ###
 
-<h2 align="left">Utilizo estas tecnologias ↓</h2>
+<h2 align="left">Principais tecnologias que utilizo ↓</h2>
 
 ###
 
